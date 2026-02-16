@@ -38,7 +38,7 @@ function App() {
         <div className="footer-content">
           <span className="footer-logo">$COCK</span>
           <div className="footer-links">
-            <a href="#">Twitter</a>
+            <a href="https://x.com/CockCoin_Dev" target="_blank" rel="noopener noreferrer">Twitter</a>
             <a href="#">Telegram</a>
             <a href="#">DexScreener</a>
           </div>
