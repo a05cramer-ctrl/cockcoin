@@ -40,7 +40,7 @@ function App() {
           <div className="footer-links">
             <a href="https://x.com/CockCoin_Dev" target="_blank" rel="noopener noreferrer">Twitter</a>
             <a href="#">Telegram</a>
-            <a href="#">DexScreener</a>
+            <a href="https://dexscreener.com/solana/Cv5ykPrYmx4jC5eFsEW1eVf6dA83J7Kh1AnoGXcTpump" target="_blank" rel="noopener noreferrer">DexScreener</a>
           </div>
         </div>
       </footer>
@@ -50,12 +50,12 @@ function App() {
           <div className="modal" onClick={e => e.stopPropagation()}>
             <button className="modal-close" onClick={() => setBuyModalOpen(false)}>×</button>
             <h3>GET YOUR $COCK</h3>
-            <p className="modal-subtitle">Contract: 0x...C0CK — verify before you grab it</p>
+            <p className="modal-subtitle">CA: Cv5ykPrYmx4jC5eFsEW1eVf6dA83J7Kh1AnoGXcTpump</p>
             <div className="modal-actions">
-              <a href="#" className="btn btn-primary btn-large">
-                BUY ON RAYDIUM
+              <a href="https://pump.fun/coin/Cv5ykPrYmx4jC5eFsEW1eVf6dA83J7Kh1AnoGXcTpump" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-large">
+                BUY ON PUMP.FUN
               </a>
-              <a href="#" className="btn btn-secondary btn-large">
+              <a href="https://jup.ag/swap/SOL-Cv5ykPrYmx4jC5eFsEW1eVf6dA83J7Kh1AnoGXcTpump" target="_blank" rel="noopener noreferrer" className="btn btn-secondary btn-large">
                 BUY ON JUPITER
               </a>
             </div>

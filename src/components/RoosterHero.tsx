@@ -29,7 +29,7 @@ export function RoosterHero({ onBuyClick }: RoosterHeroProps) {
           <button className="btn btn-hero" onClick={onBuyClick}>
             GET YOUR $COCK
           </button>
-          <a href="https://dexscreener.com/solana" target="_blank" rel="noopener noreferrer" className="btn btn-hero-social" aria-label="Chart">
+          <a href="https://dexscreener.com/solana/Cv5ykPrYmx4jC5eFsEW1eVf6dA83J7Kh1AnoGXcTpump" target="_blank" rel="noopener noreferrer" className="btn btn-hero-social" aria-label="Chart">
             <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 3v18h18"/><path d="M7 14l4-4 4 4 5-5"/></svg>
             Chart
           </a>
